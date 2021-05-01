@@ -34,7 +34,7 @@ const Checkout = ({cartItems,total})=>(
             <span>Total : ₹{total}</span>
         </div>
         <div className="test-warning">
-            sample credit card: 
+            sample credit card to input: 
             <br/>
             4242 4242 4242 4242    Exp: 01/2024    -    CVV: 123
         </div>
